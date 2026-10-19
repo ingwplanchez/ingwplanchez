@@ -13,7 +13,7 @@ Profesional especializado en **arquitectura de software asistida por IA**, **orq
 🤖  AI-Native Engineer — LangChain · LangGraph · MCP · RAG
 🐍  Backend Developer — Python · FastAPI · Flask
 🎬  Instructor en línea con más de 90.000 estudiantes
-🌎  Venezuela 
+📫  Contáctame en: [ing.wplanchez@gmail.com](mailto:ing.wplanchez@gmail.com)
 ```
 ---
 ## 🎓 Plataformas de Enseñanza
