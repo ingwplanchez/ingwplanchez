@@ -8,13 +8,13 @@
 
 Profesional especializado en **arquitectura de software asistida por IA**, **orquestación de agentes autónomos** y **automatización backend**. Combino la lógica de ingeniería con tecnologías modernas — FastAPI, LangGraph, n8n, MCP y RAG — para transformar problemas complejos en **sistemas escalables y orientados a eventos**.
 
-```text
-🎓  Ingeniero Mecatrónico
-🤖  AI-Native Engineer — LangChain · LangGraph · MCP · RAG
-🐍  Backend Developer — Python · FastAPI · Flask
-🎬  Instructor en línea con más de 90.000 estudiantes
-📫  Contáctame en: [ing.wplanchez@gmail.com](mailto:ing.wplanchez@gmail.com)
-```
+
+- 🎓 Ingeniero Mecatrónico.
+- 🤖 AI-Native Engineer — LangChain · LangGraph · MCP · RAG.
+- 🐍 Backend Developer — Python · FastAPI · Flask.
+- 🎬 Instructor en línea con más de 90.000 estudiantes.
+- 📫 Contáctame en: [ing.wplanchez@gmail.com](mailto:ing.wplanchez@gmail.com)
+
 ---
 ## 🎓 Plataformas de Enseñanza
 
